@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://w953490727-ops.github.io/AI-DeepSeek-/sitemap.xml
